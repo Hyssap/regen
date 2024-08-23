@@ -5,6 +5,7 @@ const int sensorPin = A0; // The pin connected to the voltage divider
 // Voltage divider constants
 const float R1 = 4600.0; // R1 in ohms
 const float R2 = 3300.0; // R2 in ohms
+ohiafdln
 
 // Reference voltage
 const float referenceVoltage = 5.0; // Arduino analog reference voltage
